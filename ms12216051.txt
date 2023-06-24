@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "bandopc.com",
+  "Id": "4a0c59b8-b27f-4c31-8fcc-243bf444d3f6"
+}
